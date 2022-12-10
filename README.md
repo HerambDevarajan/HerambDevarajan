@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HerambDevarajan
+- 👀 I’m interested in coding and programming
+- 🌱 I’m currently doing computer science engineeering in Bits Pilani, Dubai Campus.
+- 📫 You can reach me by my mail:herambdevarajan1@gmail.com
