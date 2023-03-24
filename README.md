@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @HerambDevarajan<br>- 👀 I’m interested in coding and programming<br>- 🌱 I’m currently doing computer science engineeering in Bits Pilani, Dubai Campus.<br>- 📫 You can reach me by my mail:herambdevarajan1@gmail.com <br> Check Out my portfolio website: <a href="herambdevarajan.netlify.com">herambdevarajan.netlify.com</a>
+- 👋 Hi, I’m @HerambDevarajan<br>- 👀 I’m interested in coding and programming<br>- 🌱 I’m currently doing computer science engineeering in Bits Pilani, Dubai Campus.<br>- 📫 You can reach me by my mail:herambdevarajan1@gmail.com <br>- :pushpin:Check Out my portfolio website: <a href="herambdevarajan.netlify.com">herambdevarajan.netlify.com</a>
 
 
 ## 🌐 Socials:
