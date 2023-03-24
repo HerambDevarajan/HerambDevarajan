@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @HerambDevarajan<br>- 👀 I’m interested in coding and programming<br>- 🌱 I’m currently doing computer science engineeering in Bits Pilani, Dubai Campus.<br>- 📫 You can reach me by my mail:herambdevarajan1@gmail.com <br>- :pushpin:Check Out my portfolio website: <a href="herambdevarajan.netlify.com">herambdevarajan.netlify.com</a>
+- 👋 Hi, I’m @HerambDevarajan<br>- 👀 I’m interested in Programming and aspire to be a Data Scientist<br>- 🌱 I’m currently doing BE Computer Science Engineeering in Bits Pilani, Dubai Campus.<br>- 📫 You can reach me by my mail:herambdevarajan1@gmail.com <br>- :pushpin: Check Out my portfolio website: <a href="herambdevarajan.netlify.com">herambdevarajan.netlify.com</a>
 
 
 ## 🌐 Socials:
@@ -12,10 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HerambDevarajan&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HerambDevarajan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herambdevarajan&show_icons=true&locale=en&layout=compact" alt="herambdevarajan" /></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HerambDevarajan&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
